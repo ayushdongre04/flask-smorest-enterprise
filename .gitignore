@@ -1,0 +1,63 @@
+# Python & Virtual Environment
+venv/
+*.pyc
+*.pyo
+__pycache__/
+.Python
+.env
+.flaskenv
+
+# Logs & Debug Files
+logs/
+*.log
+*.out
+*.err
+instance/
+
+# Database Files
+*.sqlite3
+*.db
+*.sql
+migrations/
+
+# Cache & Compiled Code
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+*.egg/
+*.pyd
+*.whl
+*.so
+
+# IDE / Editor Specific Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Flask-Specific Files
+*.pid
+*.sock
+
+# Docker (if using Docker)
+docker-compose.override.yml
+.env.docker
+*.pid
+
+# Tests & Coverage Reports
+.coverage
+htmlcov/
+nosetests.xml
+coverage.xml
+pytest_cache/
+junit.xml
+
+# Dependencies (if using Pipenv or Poetry)
+Pipfile.lock
+poetry.lock
