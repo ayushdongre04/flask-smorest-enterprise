@@ -1,0 +1,1 @@
+# This file defines Marshmallow schemas for request/response validation and serialization.

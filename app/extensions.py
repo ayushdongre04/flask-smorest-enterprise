@@ -1,0 +1,1 @@
+# This file initializes Flask extensions (e.g., Flask-SQLAlchemy, Flask-Migrate).

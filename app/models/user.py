@@ -1,0 +1,1 @@
+# This file defines the database model for the User entity.

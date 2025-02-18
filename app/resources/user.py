@@ -1,0 +1,1 @@
+# This file defines the API endpoints for CRUD operations on the User resource.

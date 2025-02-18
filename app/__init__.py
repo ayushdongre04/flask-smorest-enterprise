@@ -1,0 +1,1 @@
+#  This file initializes the Flask application and sets up the app factory pattern.
