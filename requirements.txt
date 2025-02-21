@@ -1,1 +1,8 @@
 # This file lists the Python dependencies for the project.
+Flask==2.3.2
+Flask-Smorest==0.41.0
+Flask-SQLAlchemy==3.0.5
+Flask-Migrate==4.0.4
+python-dotenv==1.0.0
+pytest==7.4.0
+pytest-cov==4.1.0
